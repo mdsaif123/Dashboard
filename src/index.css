@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar{
+  border-radius: 10px 10px 0 0px;
+}
+.sidebar{
+  background-color: #3F2B4D;
+ 
+}
+.sidebars ul li{
+  list-style: none;
+  margin-top: 20px;
+}
+.main{
+  background-color: #1630BA;
+ 
+ padding: 15px;
+}
+.market-analysis ul li{
+list-style: none;
+margin-right: 30px;
+margin-top: 30px;
+}
+.market-analysis ul li a{
+  text-decoration: none;
+}
+
+.market-analysis{
+  background-color: white;
+
+}
+.card1{
+  background-color: white;
+}
+.btn-group{
+  border: 1px solid gray;
+}
+.tab{
+  border: 1px solid rgb(218, 210, 210);
+  /* padding: 15px; */
+  border-radius: 10px;
+  padding: 5px 8px 5px 10px;
+}
+.tab-div{
+  background-color: rgb(247, 247, 247);
+}
+.pr{
+  background-color: white;
+}
+.active{
+  border-bottom: 2px solid blue;
+  
+}
+.box{
+  border: 1px solid gray;
+  border-radius: 8px;
+}
+.chart-para{
+  border-radius: 8px;
+  background-color: rgb(142, 200, 206);
+}
